@@ -1,0 +1,14 @@
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\bin\Debug\net10.0\ParkingGarage.exe
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\bin\Debug\net10.0\ParkingGarage.deps.json
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\bin\Debug\net10.0\ParkingGarage.runtimeconfig.json
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\bin\Debug\net10.0\ParkingGarage.dll
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\bin\Debug\net10.0\ParkingGarage.pdb
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.AssemblyInfoInputs.cache
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.AssemblyInfo.cs
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.csproj.CoreCompileInputs.cache
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.dll
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\refint\ParkingGarage.dll
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.pdb
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ParkingGarage.genruntimeconfig.cache
+C:\Users\dhara\OneDrive\Desktop\ParkingGarage\ParkingGarage\obj\Debug\net10.0\ref\ParkingGarage.dll
